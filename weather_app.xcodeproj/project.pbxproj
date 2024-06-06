@@ -123,8 +123,8 @@
 		84C2648D2C10C99800FDFB10 /* weather_app */ = {
 			isa = PBXGroup;
 			children = (
-				8490EF5D2C1204CC00E6C8E6 /* WeatherElderlyRow.swift */,
 				8490EF5F2C1204D200E6C8E6 /* WeatherRow.swift */,
+				8490EF5D2C1204CC00E6C8E6 /* WeatherElderlyRow.swift */,
 				8490EF5B2C1204A400E6C8E6 /* WelcomeView.swift */,
 				8490EF592C12049E00E6C8E6 /* WeatherView.swift */,
 				8490EF572C12049700E6C8E6 /* LoadingView.swift */,
